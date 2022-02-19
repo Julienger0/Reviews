@@ -1,0 +1,24 @@
+body{
+    background-color: white;
+    text-align: center;
+}
+
+.Review{
+    background-color: lightgray;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 5%;
+    width: 700px; 
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+
+.button{
+    border:none;
+    background-color: lightgray;
+    width:100px
+}
+
+.img{
+    border-radius: 50%;
+}
