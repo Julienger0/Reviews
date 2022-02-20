@@ -37,7 +37,7 @@ function Reviews() {
     };
     return (
         <div className='Review'>
-            <img className='img' src={data[index].image} alt={data[index].name} width="250px" height="200px" />
+            <img className='img' src={data[index].image} alt={data[index].name} width="200px" height="200px" />
             <h3>{data[index].name}</h3>
             <h4>{data[index].job}</h4>
             <p>{data[index].text}</p>
